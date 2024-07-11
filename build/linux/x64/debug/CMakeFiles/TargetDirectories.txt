@@ -1,0 +1,14 @@
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/install.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/CMakeFiles/meals_app.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/vaishnav88/StudioProjects/meals_app/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir

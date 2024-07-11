@@ -1,0 +1,1 @@
+ /home/vaishnav88/StudioProjects/meals_app/.dart_tool/flutter_build/264a24c487fd45b770d77c4e17a01753/native_assets.yaml: 
